@@ -1,0 +1,17 @@
+.about
+{
+    padding: 70px;
+}
+i{
+    font-size: 60px;
+    color: #333;
+    cursor: pointer;
+}
+.row-m
+{
+    margin-top: 80px;
+}
+.about h1
+{
+    margin-bottom: 40px;
+}
